@@ -14,7 +14,7 @@ Edit the crypto pairs you want to trade and other config info such as your krake
 
 Create your strategy in the strategy folder or reuse the existing (BestStratEver) one. The BestStratEver only do computing tasks with technical indicators to try determining sell or buy signals.
 
-You can use krakenex examples to send trading orders. See [krakenex official documentation](`https://github.com/veox/python3-krakenex`)
+You can use krakenex examples to send trading orders. See [krakenex official documentation](https://github.com/veox/python3-krakenex)
 
 
 I'm not responsible for any money losses using this bot. I guarantee that it will not do anything else that what you ask him to do in your strategy.
